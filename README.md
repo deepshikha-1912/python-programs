@@ -91,14 +91,6 @@ Replace `practical01.py` with the filename of the practical you want to execute.
 
 After completing these practicals, students will gain hands-on experience with Python programming, data structures, file operations, and object-oriented programming concepts.
 
-## About the Author
-
-**Deepshikha Paliwal**
-
-- **Roll Number:** 26570070
-- **College:** Ramanujan College
-- **University:** University of Delhi
-- **Subject:** Object Oriented Programming Using Python
 
 ## Repository Purpose
 
