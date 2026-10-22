@@ -1,0 +1,11 @@
+t = (10, 20, 30, 40, 20)
+
+print("Tuple:", t)
+print("First element:", t[0])
+print("Last element:", t[-1])
+print("Length:", len(t))
+print("Count of 20:", t.count(20))
+print("Index of 30:", t.index(30))
+print("Sliced tuple:", t[1:4])
+print("Maximum:", max(t))
+print("Minimum:", min(t))
